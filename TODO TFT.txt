@@ -1,0 +1,7 @@
+TODO :
+
+- thief gloves occupies all items slots
+- add +1 to corresponding trait of the emblem
+- not be able to put emblem to champion who already has the trait
+- traits filter not that good
+- css
